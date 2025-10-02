@@ -1,9 +1,5 @@
 # Tagify - AI Supported Note App
 
-<p align="center">
-  <img src="logo.png" alt="Tagify Logo" width="180"/>
-</p>
-
 Tagify is a modern web application that makes note-taking easy and smart with AI-powered tagging. It features a FastAPI backend with multi-user JSON-based storage and a sleek Streamlit frontend.
 
 ---
@@ -203,15 +199,6 @@ Extract tags from note content using AI.
 
 ---
 
-## 🎨 Screenshots
-
-<p align="center">
-  <img src="screenshots/home.png" alt="Home" width="600"/>
-  <img src="screenshots/note_detail.png" alt="Note Detail" width="600"/>
-  <img src="screenshots/tagify_ai.png" alt="AI Tagging" width="600"/>
-</p>
-
----
 
 ## ⚡ Quick Start
 
