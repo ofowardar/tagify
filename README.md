@@ -229,7 +229,7 @@ streamlit run app.py
 
 ## 📝 License
 
-MIT License © 2025 [yourusername](https://github.com/yourusername)
+MIT License © 2025 [ofowardar](https://github.com/ofowardar)
 
 ---
 
@@ -241,4 +241,4 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ## 📬 Contact
 
-For questions or feedback, open an issue or email [your@email.com](mailto:your@email.com).
+For questions or feedback, open an issue or email [ofowardar@gmail.com](mailto:ofowardar@gmail.com).
